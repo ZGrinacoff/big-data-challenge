@@ -4,8 +4,6 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. [Amazon]
 
 Please visit the [Amazon Vine Help Page](https://www.amazon.com/gp/vine/help?ie=UTF8) for additional information regarding the program.
 
-Data Sour
-
 ## Tools:
 
 * AWS: RDS-PostgreSQL
